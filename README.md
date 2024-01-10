@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szym68on&label=Profile%20views&color=0e75b6&style=flat" alt="szym68on" /> </p>
 
-- 🔭 I’m currently working on **LMS System**
+- 🔭 I’m currently working on **LMS System, e-commerce shop**
 
 - 🌱 I’m currently learning **React Redux**
 
