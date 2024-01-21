@@ -28,3 +28,4 @@
 <p>BudgetApp: https://budgetdemoapp.netlify.app/</p>
 <p>QuizApp: https://quizzzappdemo.netlify.app/</p>
 <p>E-commerce: https://ecommerceshopdemo.netlify.app/ (in process)</p>
+<p>Movie app: https://movieappdemoo.netlify.app/ (in process)</p>
