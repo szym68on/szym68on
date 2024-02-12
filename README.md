@@ -25,6 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szym68on&" alt="szym68on" /></p>
 <h1> ☆ Projects: ☆</h1>
+<p>Portfolio: https://swierczszymon-portfolio.netlify.app</p>
 <p>BudgetApp: https://budgetdemoapp.netlify.app/</p>
 <p>QuizApp: https://quizzzappdemo.netlify.app/</p>
 <p>E-commerce: https://ecommerceshopdemo.netlify.app/ (in process)</p>
